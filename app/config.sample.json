@@ -1,7 +1,7 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "websites" : [
     {
       "url" : "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/app/settings.html",
