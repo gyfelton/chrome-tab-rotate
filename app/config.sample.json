@@ -12,11 +12,6 @@
       "url" : "https://platform.datorama.com/index.html#/page/dashboardpage/show?embedpage=33cda7c4-ef0d-49e8-a77a-53b5b4d6bd7d",
       "duration" : 20,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url" : "https://fabric.io/wattpad/ios/apps/com.fivemobile.wattpad/issues?time=last-seven-days&event_type=crash&subFilter=device&state=open&type=crash&build%5B0%5D=top-builds",
-      "duration" : 20,
-      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
