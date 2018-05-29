@@ -4,24 +4,19 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/app/settings.html",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 15
+      "url" : "https://p.datadoghq.com/sb/xLykKC-dcda1554620487bd6bb22f14b48a2b7d",
+      "duration" : 20,
+      "tabReloadIntervalSeconds": 80000
     },
     {
-      "url" : "https://github.com/KevinSheedy/chrome-tab-rotate.git",
-      "duration" : 10,
+      "url" : "https://platform.datorama.com/index.html#/page/dashboardpage/show?embedpage=33cda7c4-ef0d-49e8-a77a-53b5b4d6bd7d",
+      "duration" : 20,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url" : "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url" : "https://ie.linkedin.com/in/kevinsheedy",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 15
+      "url" : "https://fabric.io/wattpad/ios/apps/com.fivemobile.wattpad/issues?time=last-seven-days&event_type=crash&subFilter=device&state=open&type=crash&build%5B0%5D=top-builds",
+      "duration" : 20,
+      "tabReloadIntervalSeconds": 30
     }
   ]
 }
