@@ -5,12 +5,12 @@
   "websites" : [
     {
       "url" : "https://p.datadoghq.com/sb/xLykKC-dcda1554620487bd6bb22f14b48a2b7d",
-      "duration" : 20,
+      "duration" : 10,
       "tabReloadIntervalSeconds": 0
     },
     {
       "url" : "https://platform.datorama.com/index.html#/page/dashboardpage/show?embedpage=33cda7c4-ef0d-49e8-a77a-53b5b4d6bd7d",
-      "duration" : 20,
+      "duration" : 30,
       "tabReloadIntervalSeconds": 0
     }
   ]
