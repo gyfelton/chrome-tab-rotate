@@ -4,14 +4,14 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://p.datadoghq.com/sb/xLykKC-dcda1554620487bd6bb22f14b48a2b7d",
+      "url" : "https://app.datadoghq.com/screen/280625/ads-screenboard",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 86400
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://platform.datorama.com/index.html#/page/dashboardpage/show?embedpage=33cda7c4-ef0d-49e8-a77a-53b5b4d6bd7d",
       "duration" : 30,
-      "tabReloadIntervalSeconds": 86400
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://www.google.co.uk/search?q=worldcup+schedule&oq=worldcup+schedule&aqs=chrome..69i57j0l5.2732j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/06qjc4;2;/m/030q7;mt;fp;1",
