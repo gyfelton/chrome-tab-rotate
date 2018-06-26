@@ -4,7 +4,7 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://app.datadoghq.com/screen/280625/ads-screenboard",
+      "url" : "https://p.datadoghq.com/sb/xLykKC-dcda1554620487bd6bb22f14b48a2b7d",
       "duration" : 10,
       "tabReloadIntervalSeconds": 3600
     },
