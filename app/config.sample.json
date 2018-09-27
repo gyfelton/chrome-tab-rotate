@@ -4,13 +4,13 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://p.datadoghq.com/sb/xLykKC-dcda1554620487bd6bb22f14b48a2b7d",
-      "duration" : 30,
+      "url" : "https://company.wattpad.com/culture/",
+      "duration" : 25,
       "tabReloadIntervalSeconds": 3600
     },
     {
-      "url" : "https://platform.datorama.com/index.html#/page/dashboardpage/show?embedpage=33cda7c4-ef0d-49e8-a77a-53b5b4d6bd7d",
-      "duration" : 10,
+      "url" : "https://company.wattpad.com/work-at-wattpad/",
+      "duration" : 25,
       "tabReloadIntervalSeconds": 3600
     }
   ]
