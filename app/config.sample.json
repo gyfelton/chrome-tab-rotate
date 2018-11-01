@@ -12,6 +12,11 @@
       "url" : "https://platform.datorama.com/index.html#/page/dashboardpage/show?embedpage=33cda7c4-ef0d-49e8-a77a-53b5b4d6bd7d",
       "duration" : 10,
       "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url" : "https://platform.datorama.com/12910/visualize/66963/page/1036127",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
